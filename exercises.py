@@ -5,4 +5,4 @@
 # it returns "Hello Data Science!"
 
 def hello():
-    return 'Hello Data Science!'
+    return 'Hello Data!'
